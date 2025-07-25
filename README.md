@@ -5,4 +5,4 @@ A complete data analysis project using Python on anime data — includes data cl
 ---
 
 ## 📊 Presentation Slides
-📄 [View Full Presentation (PDF)]([./YourPresentationFile.pdf](https://github.com/HagerSalahRamadan/Anime-Data-Analysis-using-Python/blob/main/Anime%20Data%20Analysis%20using%20Python.pdf))
+📄 [View Full Presentation (PDF)](https://github.com/HagerSalahRamadan/Anime-Data-Analysis-using-Python/blob/main/Anime%20Data%20Analysis%20using%20Python.pdf)
